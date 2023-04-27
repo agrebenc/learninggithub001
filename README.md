@@ -1,7 +1,3 @@
 # learninggithub001
 
-# this is frustrating
-# I hear you partner!
-# watch this change 
-# nuts
-# really nuts
+<h1> this is going OK </h1>
